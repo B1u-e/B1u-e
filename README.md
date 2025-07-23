@@ -9,8 +9,9 @@
 <h2 align="left" id="info">🧑‍💻 About Me:</h2>
 
 - I'm a passionate smart contract developer and a life-long learner, mainly focused on the develoment of decentralized applications in Solidity languages.
+- Passionating about vibe coding – creating, exploring, and building things I love. Learning new stacks, and turning ideas into real projects, step by step.
 - Exploring how to become a business development and operator in the crypto space to contribute to the community, as well as personal influence in web3.
-- Currently learning about Cross-chain Protocol, Layer 2, AI Agent, Rust, Solana and ... 
+- Currently, I'm diving deeper into the Web3 world, learning about Cross-chain Protocol, Layer 2, AI Agent, Rust, Solana and ......
 
 ---
 
